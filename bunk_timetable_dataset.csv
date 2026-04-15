@@ -1,0 +1,242 @@
+Record_ID,Week,Day,Period,Time_Slot,Subject,Session_Type,Interest_Level,Teacher,Event_Day,Test_Day,Previous_Attendance_Percentage,Bunked
+1,1,MON,1,09:00-09:55,Phy ,Lecture,Medium,T3,No,Yes,62,No
+2,1,MON,3,10:50-11:45,Introduction to DS,Lecture,High,,YES ,No,79,No
+3,1,Monday,4,11:45-12:40,physics,Lecture,Medium,T1,yes,YES ,82,Yes
+4,1,monday,5,12:40-01:35,C LAB,Lab,High,T1,YES ,,69,No
+5,1,Mon ,6,13:35-14:30,C Programming Lab,Lab,High,T6,Y,No,92,No
+6,1,Mon ,7,14:30-15:25,PHY LAB,Lab,High,,N,n,79,No
+7,1,Monday,9,16:20-17:15,Intro DS,Lecture,High,T6,N,y,76,Yes
+8,1,Tuesday,1,09-09:55,,Lecture,Medium,Teacher 2,Yes,yes,63,No
+9,1,Tuesday,3,10:50-11:45 ,,Lecture,High,Teacher 1,YES ,Yes,80,Yes
+10,1,TUE,4,11:45-12:30,Mathematics I,Lecture,Low,T_5,no,YES ,67,No
+11,1,tuesday,5,12:40-1:35,linux lab,Lab,Medium,Teacher-6,No,,88,No
+12,1,Tue ,6,13:35-14:30,Introduction to AI and ML,Lecture,High,T_5,no,y,93,Yes
+13,1,Tuesday,7,14:30-15:25,C prog lab,Lab,High,,, NO,90,No
+14,1,wednesday,1,09-10,Intro to Data Science,Lecture,High,T_5,no,N,65,Yes
+15,1,WED,2,,Mathematics I,Lecture,Low,T5,No,N,94,No
+16,1,Wednesday,6,13:35-14:30,Mac OS X Lab,Lab,High,Teacher 3,y,y,87,No
+17,1,Wed ,7,14:30-15:25,C LAB,Lab,High,Teacher 6,n, NO,90,No
+18,1,Wed ,8,15:25-16:20,Physics,Lecture,Medium,Teacher 6,Yes,no,86,No
+19,1,THU,1,09-09:55,C lab,Lab,High,T4,Yes,YES ,71,Yes
+20,1,THU,2,09:00-09:55,PHY LAB,Lab,High,T5,n,no,61,Yes
+21,1,thursday,3,10:50-11:40,MATHS-I,Lecture,Low,Teacher 4,n,n,85,No
+22,1,Thursday,4,11:45-12:40,Mathematics I,Lecture,Low,T1,YES ,,72,Yes
+23,1,THU,5,12:40-13:35,Mathematics I,Lecture,Low,Teacher 4,y,n,61,Yes
+24,1,thursday,7,14:30-15:25,C Programming,Lecture,Medium,,Y,YES ,87,Yes
+25,1,thursday,8,15:25-16:20,AI & ML,Lecture,High,Teacher-4, NO,N,63,Yes
+26,1,Thursday,9,16:20-17:15,Mac osx Lab,Lab,High,Teacher 4,No,Yes,81,No
+27,1,friday,1,09-09:55,,Lab,High,Teacher-2,N,No,94,Yes
+28,1,Fri ,2,,mac lab,Lab,High,T_3,No,yes,63,No
+29,1,Fri ,4,11:45-12:40,Mac OS X,Lecture,High,Teacher-2,y,,69,No
+30,1,FRI,6,13:35-14:30,Phy ,Lecture,Medium,Teacher-6,No,Y,66,No
+31,1,FRI,8,15:25-16:20,Maths 1,Lecture,Low,T4,Yes,No,77,No
+32,1,friday,9,16:20-17:15,linux lab,Lab,Medium,T_4,Y, NO,70,No
+33,1,saturday,1,09-09:55,Phy lab,Lab,High,T_4,N,,95,Yes
+34,1,SAT,2,09:55-10:50,physics,Lecture,Medium,Teacher-2,N,YES ,76,Yes
+35,1,saturday,3,10-11,Mathematics I,Lecture,Low,T_5,No,No,82,Yes
+36,1,SAT,5,12:40-1:35,Comm Skills,Lecture,High,Teacher-3,,Y,85,No
+37,1,SAT,6,13:35-14:30,PHY,Lecture,Medium,Teacher 1,YES ,Y,60,Yes
+38,1,Sat ,7,14:30-15:25,mac lab,Lab,High,Teacher 2,no,YES ,61,Yes
+39,1,SAT,8,15:25-16:20,physics,Lecture,Medium,Teacher 2,no,Y,90,No
+40,1,SAT,9,16:20-17:15,PHY LAB,Lab,High,Teacher-3,Y,yes,61,Yes
+41,2,Monday,2,09-10,Data Science Intro,Lecture,High,T6,,yes,67,Yes
+42,2,Mon ,3,10:50-11:45 ,C lab,Lab,High,,YES ,Yes,66,Yes
+43,2,monday,4,11:45-12:30,Phy lab,Lab,High,T_2,YES ,yes,80,Yes
+44,2,monday,6,13:35-14:30,LINUX LAB,Lab,Medium,Teacher-5,y,,84,Yes
+45,2,monday,8,15:25-16:20,Programming in C,Lecture,Medium,T_4,No,Y,73,Yes
+46,2,Mon ,9,16:20-17:15,MAC LAB,Lab,High,Teacher 1,N,No,66,No
+47,2,tuesday,2,09:00-09:55,Physics,Lecture,Medium,T_4, NO,n,70,No
+48,2,Tuesday,5,12:40-13:35,Linux Lab,Lab,Medium,Teacher 2,Y,,67,Yes
+49,2,TUE,6,13:35-14:30,,Lecture,Medium,T_2,y,y,61,No
+50,2,tuesday,7,14:30-15:25,CSE Comm Skills,Lecture,High,,N,,74,No
+51,2,TUE,8,15:25-16:20,Maths 1,Lecture,Low,T_2,Yes,no,93,Yes
+52,2,Tuesday,9,16:20-17:15,Phy lab,Lab,High,T2,y,,84,Yes
+53,2,Wed ,1,09-10,LINUX LAB,Lab,Medium,Teacher-5,,YES ,65,No
+54,2,wednesday,2,09:00-09:55,Basic Arch of Mac OS X,Lecture,High,Teacher 6,y,Y,62,Yes
+55,2,wednesday,3,10:50-11:45,Prog in C,Lecture,Medium,Teacher-4,y,,25,Yes
+56,2,Wed ,4,11:45-12:30,Phy lab,Lab,High,Teacher 3,Yes,,95,Yes
+57,2,Wednesday,6,13:35-14:30,PHY LAB,Lab,High,Teacher 3,N,y,69,No
+58,2,wednesday,7,14:30-15:25,,Lecture,Low,T2,, NO,63,No
+59,2,wednesday,8,15:25-16:20,LINUX LAB,Lab,Medium,T_5,yes,,88,Yes
+60,2,Wed ,9,16:20-17:15,Phy ,Lecture,Medium,Teacher 6, NO,No,70,Yes
+61,2,Thurs ,1,09:00-09:55,PHY LAB,Lab,High,T5,YES ,No,83,Yes
+62,2,Thurs ,2,09:55-10:50,Phy lab,Lab,High,Teacher 4,Yes,YES ,63,No
+63,2,THU,5,12:40-1:35,Mathematics I,Lecture,Low,Teacher 3,n,Y,83,No
+64,2,THU,8,15:25-16:20,Introduction to AI and ML,Lecture,High,Teacher 3,n, NO,69,No
+65,2,FRI,2,09-09:55,Mac osx Lab,Lab,High,T_5,N,yes,75,Yes
+66,2,Fri ,4,11:45-12:30,C prog lab,Lab,High,Teacher-6,yes,No,63,No
+67,2,Fri ,6,13:35-14:30,Maths 1,Lecture,Low,T_1,Y,YES ,94,Yes
+68,2,friday,7,14:30-15:25,Basic Arch of Mac OS X,Lecture,High,Teacher 5,YES ,y,83,No
+69,2,friday,8,15:25-16:20,Comm Skills,Lecture,High,T_4,Y,Y,77,No
+70,2,Friday,9,16:20-17:15,Communication Skills,Lecture,High,Teacher-5, NO,Yes,70,No
+71,2,saturday,1,09:00-09:55,PHY LAB,Lab,High,Teacher 2,No,Y,92,Yes
+72,2,saturday,4,11:45-12:40,Linux practical,Lab,Medium,T2,N,,66,No
+73,2,Sat ,6,13:35-14:30,Phy ,Lecture,Medium,T_4,n,Y,88,Yes
+74,2,saturday,7,14:30-15:25,Introduction to DS,Lecture,High,T5,Y,N,69,No
+75,2,Sat ,8,15:25-16:20,C lab,Lab,High,Teacher-5,YES ,No,64,Yes
+76,3,monday,1,09:00-09:55,Mac OS X Lab,Lab,High,T_4,y,yes,85,Yes
+77,3,Monday,3,10:50-11:40,Intro to AI & ML,Lecture,High,T2,yes,no,95,No
+78,3,Mon ,4,11:45-12:30,C LAB,Lab,High,Teacher-1,N,no,74,No
+79,3,MON,5,12:40-1:35,Linux practical,Lab,Medium,Teacher 4,YES ,Y,88,Yes
+80,3,monday,8,15:25-16:20,Mac Architecture,Lecture,High,T4,Y,yes,75,No
+81,3,Monday,9,16:20-17:15,C-Programming,Lecture,Medium,Teacher-2,,n,80,No
+82,3,Tue ,1,09-10,Phy ,Lecture,Medium,T_6,Yes,N,25,No
+83,3,tuesday,2,09-09:55,Mac OS X Arch,Lecture,High,T6,yes,YES ,64,Yes
+84,3,TUE,4,11:45-12:40,Linux Lab,Lab,Medium,Teacher-2, NO,,94,Yes
+85,3,Tue ,5,12:40-01:35,C Programming Lab,Lab,High,T_1,N,Y,86,No
+86,3,TUE,6,13:35-14:30,Communication Skills,Lecture,High,Teacher-2,Yes,No,61,No
+87,3,TUE,7,14:30-15:25,mac lab,Lab,High,T5,n,N,77,Yes
+88,3,TUE,8,15:25-16:20,AI & ML,Lecture,High,T2,y,YES ,85,Yes
+89,3,Wednesday,1,09:55-10:50,Mathematics I,Lecture,Low,Teacher 6,Yes,no,79,No
+90,3,Wednesday,2,09-09:55,Maths 1,Lecture,Low,T_3,,YES ,83,No
+91,3,WED,4,11:45-12:30,C LAB,Lab,High,T5,n,no,89,No
+92,3,WED,5,12:40-1:35,Phy ,Lecture,Medium,T6,N,N,61,No
+93,3,Wed ,6,13:35-14:30,Mac osx Lab,Lab,High,T4,N,Yes,77,No
+94,3,wednesday,7,14:30-15:25,Linux Lab,Lab,Medium,Teacher-4,no,no,85,No
+95,3,Wed ,8,15:25-16:20,AI-ML,Lecture,High,T_2,no,N,89,No
+96,3,THU,1,09:55-10:50,Linux Lab,Lab,Medium,T1, NO,Yes,81,No
+97,3,THU,2,09-09:55,Mac Architecture,Lecture,High,Teacher-2,N,N,76,Yes
+98,3,Thurs ,4,11:45-12:30,Mac OS X Arch,Lecture,High,Teacher-1,YES ,No,76,No
+99,3,Thurs ,5,12:40-01:35,Mac OS X Arch,Lecture,High,T_5,Y,N,94,No
+100,3,thursday,6,13:35-14:30,Physics Lab,Lab,High,T_6,yes,no,74,No
+101,3,THU,8,15:25-16:20,Phy lab,Lab,High,Teacher-2,no,no,74,No
+102,3,Friday,3,10-11,Phy ,Lecture,Medium,T4,N,y,66,No
+103,3,FRI,4,11:45-12:40,mac lab,Lab,High,Teacher 6,n,Y,67,No
+104,3,Friday,5,12:40-13:35,C LAB,Lab,High,T5,No,yes,74,No
+105,3,friday,6,13:35-14:30,LINUX LAB,Lab,Medium,Teacher-4,,,93,No
+106,3,Fri ,7,14:30-15:25,Linux Lab,Lab,Medium,Teacher 1, NO,N,73,Yes
+107,3,FRI,8,15:25-16:20,Intro to Data Science,Lecture,High,Teacher 4,,Y,79,No
+108,3,FRI,9,16:20-17:15,physics lab,Lab,High,Teacher 1,No,n,92,Yes
+109,3,SAT,1,09:00-09:55,Prog in C,Lecture,Medium,Teacher 5,Yes,y,87,Yes
+110,3,SAT,3,10:50-11:40,mac lab,Lab,High,Teacher 4,No,N,78,No
+111,3,SAT,4,,Mac OS X,Lecture,High,Teacher-3,N,YES ,92,No
+112,3,saturday,5,12:40-1:35,Phy ,Lecture,Medium,T_2,yes,yes,91,No
+113,3,saturday,7,14:30-15:25,C Programming Lab,Lab,High,Teacher-3,yes,Y,87,Yes
+114,3,saturday,8,15:25-16:20,physics lab,Lab,High,T1,y,Y,81,Yes
+115,4,Monday,1,09:00-09:55,Intro to Data Science,Lecture,High,Teacher-2, NO, NO,66,No
+116,4,Mon ,2,09:00-09:55,Programming in C,Lecture,Medium,Teacher 6,n,yes,73,No
+117,4,monday,4,11:45-12:40,physics,Lecture,Medium,T_3,Y, NO,25,Yes
+118,4,monday,8,15:25-16:20,Introduction to AI and ML,Lecture,High,Teacher 5, NO,no,80,No
+119,4,Tue ,1,09:00-09:55,C prog lab,Lab,High,Teacher 4,N,N,74,Yes
+120,4,tuesday,3,10-11,mac lab,Lab,High,T5,,y,61,Yes
+121,4,tuesday,5,12:40-01:35,Linux Lab,Lab,Medium,,yes,y,68,No
+122,4,TUE,6,13:35-14:30,Linux practical,Lab,Medium,Teacher-4,YES ,Y,91,No
+123,4,tuesday,7,14:30-15:25,Mathematics I,Lecture,Low,T_4,Y,n,85,No
+124,4,tuesday,8,15:25-16:20,Introduction to AI and ML,Lecture,High,, NO,y,30,Yes
+125,4,TUE,9,16:20-17:15,physics lab,Lab,High,T_1,y,y,91,Yes
+126,4,Wed ,1,,Introduction to DS,Lecture,High,T_5,N,N,72,No
+127,4,Wed ,2,09:00-09:55,C Programming,Lecture,Medium,T_3,y,Yes,63,Yes
+128,4,WED,3,10-11,Intro to Data Science,Lecture,High,T6,,,65,Yes
+129,4,wednesday,4,11:45-12:30,MATHS-I,Lecture,Low,Teacher 6,y,y,86,Yes
+130,4,Wed ,5,12:40-01:35,MATHS-I,Lecture,Low,Teacher-4, NO,Yes,77,No
+131,4,Wed ,6,13:35-14:30,AI & ML,Lecture,High,T_3,No,No,69,No
+132,4,wednesday,8,15:25-16:20,Physics Lab,Lab,High,T_4,No,,68,Yes
+133,4,Thursday,3,10:50-11:45,mac lab,Lab,High,T_2,Yes,,67,No
+134,4,Thursday,4,11:45-12:40,Maths-I,Lecture,Low,T4,no,Y,67,Yes
+135,4,Thursday,5,12:40-01:35,Intro to AI & ML,Lecture,High,T1,y,n,80,Yes
+136,4,Thurs ,6,13:35-14:30,Programming in C,Lecture,Medium,Teacher-2,No,,86,No
+137,4,THU,9,16:20-17:15,Phy lab,Lab,High,Teacher 4,y, NO,68,No
+138,4,Fri ,1,09-10,physics lab,Lab,High,T4,no,no,76,Yes
+139,4,Fri ,2,09-10,PHY LAB,Lab,High,Teacher 3, NO,n,63,Yes
+140,4,Fri ,3,10:50-11:45 ,C Programming,Lecture,Medium,Teacher-3,y, NO,60,No
+141,4,friday,4,11:45-12:40,mac lab,Lab,High,Teacher 6,y,no,66,No
+142,4,friday,7,14:30-15:25,C LAB,Lab,High,T_1,Yes, NO,25,Yes
+143,4,Friday,8,15:25-16:20,Basic Arch of Mac OS X,Lecture,High,Teacher-3,no,y,80,No
+144,4,Friday,9,16:20-17:15,MAC LAB,Lab,High,T2,YES ,yes,69,No
+145,4,Saturday,1,09-09:55,C lab,Lab,High,T4,,,68,No
+146,4,saturday,2,09-09:55,LINUX LAB,Lab,Medium,T_6,y,yes,90,Yes
+147,4,Saturday,3,10:50-11:40,PHY LAB,Lab,High,T_1,N,,78,Yes
+148,4,SAT,4,11:45-12:30,Mac OS X Arch,Lecture,High,T_4, NO,y,80,No
+149,4,SAT,5,12:40-01:35,Introduction to AI and ML,Lecture,High,T_1,no,,30,Yes
+150,4,Sat ,7,14:30-15:25,Mac OS X Lab,Lab,High,Teacher-6,N,y,62,Yes
+151,4,Saturday,8,15:25-16:20,linux lab,Lab,Medium,Teacher-5,N, NO,67,Yes
+152,5,Monday,2,09:55-10:50,Mac osx Lab,Lab,High,Teacher-3,no,n,110,Yes
+153,5,Mon ,3,10:50-11:45 ,Linux Lab,Lab,Medium,,n,y,89,Yes
+154,5,MON,4,11:45-12:40,Intro to Data Science,Lecture,High,T_4,Yes,Y,75,No
+155,5,Mon ,5,12:40-01:35,Mac OS X,Lecture,High,Teacher 5,,no,80,No
+156,5,MON,8,15:25-16:20,,Lecture,Low,T5,yes,,72,Yes
+157,5,MON,9,16:20-17:15,Mac OS X,Lecture,High,Teacher 6,yes,No,67,No
+158,5,TUE,1,09-10,Intro to Data Science,Lecture,High,Teacher-4,yes,No,88,No
+159,5,Tue ,3,10-11,PHY,Lecture,Medium,T_2,,Y,64,No
+160,5,Tue ,4,11:45-12:30,Phy ,Lecture,Medium,T6,No,n,69,No
+161,5,Tue ,5,12:40-1:35,Introduction to AI and ML,Lecture,High,T3,,Y,93,No
+162,5,tuesday,6,13:35-14:30,Intro to AI & ML,Lecture,High,T2, NO,No,68,Yes
+163,5,tuesday,7,14:30-15:25,Linux practical,Lab,Medium,Teacher 1,No,N,77,Yes
+164,5,Tue ,8,15:25-16:20,C lab,Lab,High,T_4,no,YES ,92,No
+165,5,Wed ,1,09:55-10:50,LINUX LAB,Lab,Medium,T1, NO,y,82,Yes
+166,5,WED,2,09:00-09:55,Physics Lab,Lab,High,T1,,No,86,Yes
+167,5,wednesday,3,10:50-11:40,Physics,Lecture,Medium,Teacher 4,no,No,73,No
+168,5,WED,5,12:40-01:35,physics,Lecture,Medium,Teacher-6,Yes,yes,87,Yes
+169,5,Wednesday,6,13:35-14:30,PHY LAB,Lab,High,Teacher-6,YES , NO,80,No
+170,5,wednesday,7,14:30-15:25,Mac OS X Lab,Lab,High,T2,,Yes,79,No
+171,5,WED,9,16:20-17:15,AI & ML,Lecture,High,Teacher 5,N, NO,92,No
+172,5,THU,4,11:45-12:30,C Programming,Lecture,Medium,T4,y,Y,82,No
+173,5,THU,5,12:40-01:35,C lab,Lab,High,Teacher-4,no,yes,60,Yes
+174,5,Thursday,6,13:35-14:30,Comm Skills for Engineers,Lecture,High,T_6,n,N,85,No
+175,5,Thursday,7,14:30-15:25,Programming in C,Lecture,Medium,Teacher 5,y,y,68,No
+176,5,THU,8,15:25-16:20,physics,Lecture,Medium,Teacher 3,Yes,YES ,66,Yes
+177,5,thursday,9,16:20-17:15,Comm Skills,Lecture,High,Teacher-1,No,YES ,64,No
+178,5,friday,1,09-09:55,Linux practical,Lab,Medium,Teacher-5,Yes,n,69,No
+179,5,Fri ,2,09:55-10:50,Comm Skills,Lecture,High,T1,Y, NO,87,Yes
+180,5,Fri ,4,11:45-12:40,Maths-I,Lecture,Low,T_6,Y,N,91,No
+181,5,Friday,7,14:30-15:25,PHY LAB,Lab,High,Teacher-5,Yes,No,80,Yes
+182,5,FRI,8,15:25-16:20,C Programming,Lecture,Medium,T_1,no,y,82,Yes
+183,5,Fri ,9,16:20-17:15,PHY,Lecture,Medium,T2,No,YES ,83,No
+184,5,Sat ,3,10-11,Data Science Intro,Lecture,High,Teacher 6,Yes,YES ,89,No
+185,5,saturday,4,11:45-12:40,LINUX LAB,Lab,Medium,Teacher 4,yes,Y,67,Yes
+186,5,SAT,5,12:40-13:35,Comm Skills for Engineers,Lecture,High,Teacher-6, NO,No,77,No
+187,5,SAT,6,13:35-14:30,,Lecture,High,T_2,y,Yes,95,No
+188,5,saturday,7,14:30-15:25,linux lab,Lab,Medium,T2,n,no,72,No
+189,5,SAT,8,15:25-16:20,Linux Lab,Lab,Medium,Teacher 2, NO,No,90,No
+190,5,Sat ,9,16:20-17:15,Mac osx Lab,Lab,High,Teacher 2,y,,77,No
+191,6,MON,1,09:00-09:55,Phy ,Lecture,Medium,T_2,N,N,82,Yes
+192,6,MON,3,10-11,Intro to AI & ML,Lecture,High,Teacher 5,no, NO,60,No
+193,6,MON,4,11:45-12:30,physics lab,Lab,High,T_4,y,Yes,79,Yes
+194,6,Mon ,5,12:40-13:35,Phy lab,Lab,High,T_1,N,No,65,Yes
+195,6,monday,6,13:35-14:30,Mac OS X Arch,Lecture,High,Teacher 5,y,n,79,No
+196,6,MON,7,14:30-15:25,Intro to Data Science,Lecture,High,T_2,No,N,77,Yes
+197,6,Tue ,1,,Phy lab,Lab,High,Teacher 2,y,YES ,60,Yes
+198,6,Tue ,2,09-09:55,Maths 1,Lecture,Low,Teacher-6,Y,YES ,87,Yes
+199,6,TUE,3,10-11,Mathematics I,Lecture,Low,T5,y,y,69,Yes
+200,6,TUE,4,,Prog in C,Lecture,Medium,T_3,,yes,67,No
+201,6,Tuesday,5,12:40-01:35,Comm Skills for Engineers,Lecture,High,Teacher 6,YES ,y,81,Yes
+202,6,Tuesday,6,13:35-14:30,Maths 1,Lecture,Low,,N,n,82,Yes
+203,6,Wednesday,1,09-09:55,Mac osx Lab,Lab,High,Teacher-1,n,n,81,No
+204,6,Wed ,2,09-10,Linux practical,Lab,Medium,Teacher-1,n,yes,82,Yes
+205,6,Wednesday,3,10-11,LINUX LAB,Lab,Medium,T_4,YES , NO,87,No
+206,6,wednesday,4,11:45-12:40,Intro to Data Science,Lecture,High,T_1,Yes,no,88,No
+207,6,Wed ,7,14:30-15:25,Intro to AI & ML,Lecture,High,Teacher-5,N,Y,88,Yes
+208,6,wednesday,9,16:20-17:15,Phy ,Lecture,Medium,T6,yes,No,25,No
+209,6,Thurs ,1,09:55-10:50,PHY LAB,Lab,High,T5,,y,63,Yes
+210,6,THU,2,09:00-09:55,PHY,Lecture,Medium,Teacher 1,YES ,Y,88,No
+211,6,Thurs ,4,11:45-12:40,AI & ML,Lecture,High,,yes, NO,74,Yes
+212,6,thursday,6,13:35-14:30,Linux Lab,Lab,Medium,Teacher-2,no,No,67,Yes
+213,6,Thurs ,7,14:30-15:25,,Lab,High,T6,N,Y,93,Yes
+214,6,thursday,8,15:25-16:20,Data Science Intro,Lecture,High,T_1,No,Y,82,No
+215,6,THU,9,16:20-17:15,Introduction to AI and ML,Lecture,High,T5,y,,80,No
+216,6,FRI,1,,Intro to Data Science,Lecture,High,Teacher 5,no,yes,88,No
+217,6,Fri ,2,09:00-09:55,Introduction to AI and ML,Lecture,High,T_6,YES ,Y,92,No
+218,6,Fri ,5,12:40-13:35,Phy ,Lecture,Medium,Teacher 4,,YES ,82,Yes
+219,6,FRI,6,13:35-14:30,C Programming,Lecture,Medium,Teacher 3,N,no,79,No
+220,6,Friday,7,,Phy ,Lecture,Medium,Teacher-6,N,n,82,No
+221,6,Sat ,1,09:00-09:55,Intro DS,Lecture,High,Teacher-1,N,Yes,73,Yes
+222,6,Sat ,2,09-09:55,,Lecture,Low,Teacher 6,YES ,YES ,63,Yes
+223,6,saturday,3,10-11,C Programming,Lecture,Medium,Teacher 4,No,n,95,No
+224,6,saturday,4,11:45-12:40,linux lab,Lab,Medium,T6,No,no,91,Yes
+225,6,Sat ,5,12:40-01:35,Mac OS X Lab,Lab,High,Teacher-4,Y,N,74,No
+226,6,Sat ,6,13:35-14:30,Programming in C,Lecture,Medium,Teacher 2,n,n,95,No
+227,6,saturday,7,14:30-15:25,Linux practical,Lab,Medium,Teacher 3,Y,Y,74,Yes
+228,6,Sat ,8,15:25-16:20,C Programming Lab,Lab,High,Teacher-2,y,No,66,No
+229,6,SAT,9,16:20-17:15,Linux Lab,Lab,Medium,Teacher 3,yes,y,65,Yes
+184,5,Sat ,3,10-11,Data Science Intro,Lecture,High,Teacher 6,Yes,YES ,89,No
+148,4,SAT,4,11:45-12:30,Mac OS X Arch,Lecture,High,T_4, NO,y,80,No
+179,5,Fri ,2,09:55-10:50,Comm Skills,Lecture,High,T1,Y, NO,87,Yes
+153,5,Mon ,3,10:50-11:45 ,Linux Lab,Lab,Medium,,n,y,89,Yes
+82,3,Tue ,1,09-10,Phy ,Lecture,Medium,T_6,Yes,N,25,No
+90,3,Wednesday,2,09-09:55,Maths 1,Lecture,Low,T_3,,YES ,83,No
+121,4,tuesday,5,12:40-01:35,Linux Lab,Lab,Medium,,yes,y,68,No
+81,3,Monday,9,16:20-17:15,C-Programming,Lecture,Medium,Teacher-2,,n,80,No
+199,6,TUE,3,10-11,Mathematics I,Lecture,Low,T5,y,y,69,Yes
+21,1,thursday,3,10:50-11:40,MATHS-I,Lecture,Low,Teacher 4,n,n,85,No
+43,2,monday,4,11:45-12:30,Phy lab,Lab,High,T_2,YES ,yes,80,Yes
+131,4,Wed ,6,13:35-14:30,AI & ML,Lecture,High,T_3,No,No,69,No
